@@ -1,0 +1,181 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Imprenta Publicidad
+</name>
+</assembly>
+<members>
+<member name="T:Imprenta_Publicidad.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.agregar_documento">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.angulo_circulo_derecha">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.angulo_circulo_izquierda">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.angulo_pequeno_izquierdo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.archivo_de_edicion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.Banner_Anuncio_Cyber_Monday_Moderno_Morado">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.cerrar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.escoba">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.Friday">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.Green_black_simple_hat_fashion_launching_promotion___instagram_post__1_">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.Grey_and_Black_Modern_this_or_that_Hoodie_Instagram_Post">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.hogar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.icono">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.informacion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.informacion2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.lista_de_rectangulos">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.Logo_imprenta">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.Logo_imprenta1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.Logo_imprenta2">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.Mojito">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.Nighthawk">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.Portrait">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.Quepal">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.rectangulo_xmark">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.taza">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.taza1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.Termo_tics">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.TICS_LOGO">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.Transfile">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.usuario">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Imprenta_Publicidad.My.Resources.Resources.Yellow_and_Red_Illustrative_Comic_Spiral_Notebook">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,70 @@
+C:\Users\Pepo\source\repos\Imprenta Publicidad\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.AssemblyReference.cache
+C:\Users\Pepo\source\repos\Imprenta Publicidad\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Pepo\source\repos\Imprenta Publicidad\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.MenuInicio.resources
+C:\Users\Pepo\source\repos\Imprenta Publicidad\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.MenuPedidos.resources
+C:\Users\Pepo\source\repos\Imprenta Publicidad\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.Resources.resources
+C:\Users\Pepo\source\repos\Imprenta Publicidad\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.GenerateResource.cache
+C:\Users\Pepo\source\repos\Imprenta Publicidad\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.CoreCompileInputs.cache
+C:\Users\Pepo\source\repos\Imprenta Publicidad\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.exe.config
+C:\Users\Pepo\source\repos\Imprenta Publicidad\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.exe
+C:\Users\Pepo\source\repos\Imprenta Publicidad\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.pdb
+C:\Users\Pepo\source\repos\Imprenta Publicidad\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.xml
+C:\Users\Pepo\source\repos\Imprenta Publicidad\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.exe
+C:\Users\Pepo\source\repos\Imprenta Publicidad\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.xml
+C:\Users\Pepo\source\repos\Imprenta Publicidad\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.pdb
+C:\Users\Pepo\source\repos\Imprenta Publicidad\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.MenuLogin.resources
+C:\Users\Pepo\source\repos\Imprenta Publicidad Respaldo - COMPLETOOO - copia\Imprenta Publicidad Respaldo\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.exe.config
+C:\Users\Pepo\source\repos\Imprenta Publicidad Respaldo - COMPLETOOO - copia\Imprenta Publicidad Respaldo\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.exe
+C:\Users\Pepo\source\repos\Imprenta Publicidad Respaldo - COMPLETOOO - copia\Imprenta Publicidad Respaldo\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.pdb
+C:\Users\Pepo\source\repos\Imprenta Publicidad Respaldo - COMPLETOOO - copia\Imprenta Publicidad Respaldo\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.xml
+C:\Users\Pepo\source\repos\Imprenta Publicidad Respaldo - COMPLETOOO - copia\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.AssemblyReference.cache
+C:\Users\Pepo\source\repos\Imprenta Publicidad Respaldo - COMPLETOOO - copia\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Pepo\source\repos\Imprenta Publicidad Respaldo - COMPLETOOO - copia\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.MenuInicio.resources
+C:\Users\Pepo\source\repos\Imprenta Publicidad Respaldo - COMPLETOOO - copia\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.MenuLogin.resources
+C:\Users\Pepo\source\repos\Imprenta Publicidad Respaldo - COMPLETOOO - copia\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.MenuPedidos.resources
+C:\Users\Pepo\source\repos\Imprenta Publicidad Respaldo - COMPLETOOO - copia\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.Resources.resources
+C:\Users\Pepo\source\repos\Imprenta Publicidad Respaldo - COMPLETOOO - copia\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.GenerateResource.cache
+C:\Users\Pepo\source\repos\Imprenta Publicidad Respaldo - COMPLETOOO - copia\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.CoreCompileInputs.cache
+C:\Users\Pepo\source\repos\Imprenta Publicidad Respaldo - COMPLETOOO - copia\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.exe
+C:\Users\Pepo\source\repos\Imprenta Publicidad Respaldo - COMPLETOOO - copia\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.xml
+C:\Users\Pepo\source\repos\Imprenta Publicidad Respaldo - COMPLETOOO - copia\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.pdb
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.AssemblyReference.cache
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.SuggestedBindingRedirects.cache
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.exe
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.xml
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.pdb
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.exe.config
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.exe
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.pdb
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.xml
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.MenuInicio.resources
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.MenuLogin.resources
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.MenuPedidos.resources
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.Resources.resources
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.GenerateResource.cache
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.CoreCompileInputs.cache
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.CopyComplete
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.Menu_Clientes.resources
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.Menu_Productos.resources
+C:\Users\jessi\Downloads\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo - V1\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.Menu_Catalogos.resources
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.AssemblyReference.cache
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.SuggestedBindingRedirects.cache
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.exe
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.xml
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.pdb
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.exe.config
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.exe
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.pdb
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\bin\Debug\Imprenta Publicidad.xml
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.MenuInicio.resources
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.MenuLogin.resources
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.MenuPedidos.resources
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.Menu_Catalogos.resources
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.Menu_Clientes.resources
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.Menu_Productos.resources
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta_Publicidad.Resources.resources
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.GenerateResource.cache
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.CoreCompileInputs.cache
+C:\Users\riolu\Downloads\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo - V4\Imprenta Publicidad Respaldo\Imprenta Publicidad\obj\Debug\Imprenta Publicidad.vbproj.CopyComplete
